@@ -1,19 +1,3 @@
----
-title: "Laplace Transform for Network Analysis - Detailed Report"
-output:
-  pdf_document: default
-header-includes:
-  - \usepackage{titling}
-  - \pretitle{\begin{center}\Large}
-  - \posttitle{\end{center}\vspace{-0.5cm}}
-  - \preauthor{\begin{center}\normalsize}
-  - \postauthor{\end{center}\vspace{-0.5cm}}
-  - \predate{\begin{center}\normalsize}
-  - \postdate{\end{center}\vspace{-0.5cm}}
----
-
-# 
-
 ###### Name: Karthik Dani | USN: 1BM22MD022 | Course: Network Analysis | Faculty: Dr. Niranjan K R
 
 ## Introduction
