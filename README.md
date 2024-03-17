@@ -1,1 +1,1 @@
-![Report](laplace_transform.pdf)
+[Report](laplace_transform.pdf)
